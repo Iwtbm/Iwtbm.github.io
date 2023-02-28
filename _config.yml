@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Wenda Xu"
 title_separator          : "-"
 name                     : &name "Wenda Xu"
-description              : &description "personal description"
+description              : &description "Ph.D. in Robotics at Virginia Tech"
 url                      : https://iwtbm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Iwtbm/Iwtbm.github.io"
@@ -83,13 +83,14 @@ analytics:
 # Site Author
 author:
   name             : "Wenda Xu"
-  avatar           : "profile.png"
-  # bio              : "Your biography for the left-hand sidebar"
+  avatar           : "2.png"
+  bio              : "Ph.D. in Robotics at Virginia Tech"
+  bio2             : "wenda@vt.edu"
   location         : "Blacksburg, VA, USA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=vL5028kAAAAJ&hl=en"
-  email            : "wenda@vt.edu"
+  # email            : "wenda@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
