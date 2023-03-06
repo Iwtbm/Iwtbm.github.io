@@ -14,7 +14,7 @@ The research focuses on the development of an exoskeleton glove system for peopl
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5inX3800Thc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 <br/>
-a vision-based HMI system to estimate the initial grasp force using a combination of object detection and material recognition with deep convolutional neural networks to solve the force planning issues. The material recognition accuracy was improved by performing transfer learning.
+a vision-based HMI system to estimate the initial grasp force using a combination of object detection and material recognition with deep convolutional neural networks to solve the force planning issues. 
 
 ## Development of a Novel Low-profile Robotic Exoskeleton Glove
 
@@ -22,4 +22,4 @@ The key idea of this new glove lies in its new finger mechanism that takes advan
 
 <img height="240" src='/images/new_glove.jpg'>
 
-A simulation environment is also set up for the control algorithms 
+A simulation environment is also set up and different reinforcement learning algorithms are implemented for the intellegent control with approperate force.
