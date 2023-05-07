@@ -15,11 +15,34 @@ The research focuses on the development of an exoskeleton glove system for peopl
 
 <br/>
 a vision-based HMI system to estimate the initial grasp force using a combination of object detection and material recognition with deep convolutional neural networks to solve the force planning issues. 
+<p align="center">
+<img src='/images/HMI.jpg' width="80%">
+</p>
 
 ## Development of a Novel Low-profile Robotic Exoskeleton Glove
 
 The key idea of this new glove lies in its new finger mechanism that takes advantage of the rigid coupling hybrid mechanism concept. This mechanism concept couples the motions of the adjacent human finger links using rigid coupling mechanisms so that the overall mechanism motion (e.g., bending, extension, etc.) could be achieved using fewer actuators. The finger mechanism utilizes the single degree of freedom case of the RCHM that uses a rack-and-pinion mechanism as the rigid coupling mechanism. This special arrangement enables to design each finger mechanism of the glove as thin as possible while maintaining mechanical robustness simultaneously. 
 
-<img height="240" src='/images/new_glove.jpg'>
+<p align="center">
+<img src='/images/new_glove.jpg' width="70%">
+</p>
 
-A simulation environment is also set up and different reinforcement learning algorithms are implemented for the intellegent control with approperate force.
+A simulation environment was established to implement diverse deep reinforcement learning algorithms, facilitating intelligent control of various grasp types while ensuring appropriate force management.
+
+<p align="center">
+<img src='/images/cylinder_grasp.gif' width="70%">
+</p>
+
+## Design of the first generation tactile sensor fingertips
+•	Developed a prototype of exoskeleton fingertips based on tactile sensors, built the Unified Robotics Description Format (URDF) configuration for the indenter machine, and path planning in ROS, contributing to developing a precise testing platform.
+
+•	Utilized MATLAB to collect and preprocess data, enabling accurate analysis and interpretation of results, and contributed to training the finger by utilizing machine learning techniques.
+
+<p align="center">
+<img src='/images/fingertips.jpg' width="70%">
+</p>
+
+## SLAM and Obstacles Avoidance
+•	Utilized OpenCV and Deep Learning to design a vision system for tracking pelvis position over time, resulting in improved accuracy and reliability of robotic systems.
+
+•	Detected obstacles using Lidar technology and built a current map with closed-loop detection, enabling the development of precise and efficient obstacle avoidance control systems.
