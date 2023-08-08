@@ -29,6 +29,9 @@ The key idea of this new glove lies in its new finger mechanism that takes advan
 
 A simulation environment was established to implement diverse deep reinforcement learning algorithms, facilitating intelligent control of various grasp types while ensuring appropriate force management.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_o2xryaBQUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br/>
+
 <!-- <p align="center">
 <img src='/images/cylinder_grasp.gif' width="70%">
 </p> -->
